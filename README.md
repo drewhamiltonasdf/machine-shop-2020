@@ -1,8 +1,7 @@
 # Neuroscience Machine Shop
 2020 Machine shop plans/docs
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=-4McYKCd2Hg&list=PLG8tVvd9GeWkFVcim_m5NUGLcwQ_BaXMZ/0.jpg)](https://www.youtube.com/watch?v=-4McYKCd2Hg&list=PLG8tVvd9GeWkFVcim_m5NUGLcwQ_BaXMZ)
-
+[![MIT Machine Shop Courses](https://img.youtube.com/vi/-4McYKCd2Hg&list=PLG8tVvd9GeWkFVcim_m5NUGLcwQ_BaXMZ/0.jpg)](https://www.youtube.com/watch?v=-4McYKCd2Hg&list=PLG8tVvd9GeWkFVcim_m5NUGLcwQ_BaXMZ "Everything Is AWESOME")
 
 Plan View:
 <p align="center">
