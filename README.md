@@ -1,8 +1,8 @@
 # Neuroscience Machine Shop
 2020 Machine shop plans/docs
-  
-  
-    
+&nbsp  
+  &nbsp
+    &nbsp
 First "major" purchases (progress)
 
    * Sharp LVM (final quote on the way)
