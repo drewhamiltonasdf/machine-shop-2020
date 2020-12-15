@@ -17,6 +17,12 @@ First "major" purchases (progress)
    * Surface Plate Stand: https://www.mcmaster.com/2196A83/
    * Surface Plate Cover: https://www.mcmaster.com/22455A66/
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 Plan View:
 <p align="center">
   <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine Shop Top View.PNG">
