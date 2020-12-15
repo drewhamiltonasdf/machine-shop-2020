@@ -5,7 +5,6 @@
 First "major" purchases (progress)
 
    * Sharp LVM (final quote on the way)
-
    * Epliog Mini (no longer in production, requesting quote for comparable machine)
    * Lista Cabinet: https://www.mscdirect.com/product/details/16374720
    * Quantum Storage Slider System: http://quantumstorage.thomasnet-navigator.com/item/all-categories/gondola-slider-systems/g-725569-56?plpver=1010&pcat=specialized-storage-systems
