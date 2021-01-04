@@ -5,9 +5,11 @@
 &nbsp;
 &nbsp;
 
+* View Fusion model on Drew.Hamilton@nyulangone.org Fusion360 account. Project: Dima's Shop
+
 First "major" purchases (progress)
 
-   * Sharp LVM (final quote on the way)
+   * Sharp LVM. Opting for the 49" model which has less stringent power requirements and is built in large quantities at the Sharp factory. Price is around $3000 less for the larger table.
    * Epliog Mini (no longer in production, requesting quote for comparable machine)
    * Lista Cabinet: https://www.mscdirect.com/product/details/16374720
    * Quantum Storage Slider System: http://quantumstorage.thomasnet-navigator.com/item/all-categories/gondola-slider-systems/g-725569-56?plpver=1010&pcat=specialized-storage-systems
@@ -16,7 +18,7 @@ First "major" purchases (progress)
    * Granite Surface Plate: https://www.mcmaster.com/2245A45/
    * Surface Plate Stand: https://www.mcmaster.com/2196A83/
    * Surface Plate Cover: https://www.mcmaster.com/22455A66/
-
+  
 
 &nbsp;
 &nbsp;
