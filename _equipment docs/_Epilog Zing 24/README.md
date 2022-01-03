@@ -24,11 +24,10 @@
   - Typical Materials include: 
 
       - Acrylic (up to ~1/4" thickness)
-      - Delrin
       - Melamine
       - Paper
       - Thin Wood
-
+      - Delrin
 
   - Lasers cut by vaporizing material, so FIRE IS A DANGER. Please keep an eye on your parts at all times. There is a risk to you, your part, and the machine if you don't.
 
@@ -65,18 +64,14 @@ Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc.
 
 Lasers typically cut in one of two ways: raster and vector.
 
-When rastering, the laser will etch out a region line by line like an old dot matrix printer. It is used mostly for images, but also makes it possible to engrave "3D" features like shallow depressions. It is significantly slower than vector cutting, in which the laser follows the vector lines from beginning to end. It is best practice to explode all "blocks" and "groups" etc, but leave polygons/polylines joined. This takes some experience and is one of the most common sources of issues when first using a laser.
+When rastering, the laser will etch out a region line by line like an old dot matrix printer. It is used mostly for images, but also makes it possible to engrave "3D" features like shallow depressions. It is significantly slower than vector cutting, in which the laser follows the vector lines from beginning to end. It is best practice to explode all "blocks" and "groups" etc, but leave polygons/polylines joined. This takes some experience and is one of the most common sources of issues when first using a laser. When in doubt, refer to the list above for troubleshooting.
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/title-cutting-raster-vector1-540x338.jpg?raw=true) 
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/rastervector.JPG?raw=true) 
 
 
-
-Currently we only have Inkscape on there which is a freeware vector program.
-
-
-
+### Laser Use: Order of Operations
 
 ##### 1) Ensure USB is plugged into the laser and the computer. Ethernet is not currently workable without a network card.
 ##### 2) Power the laser on. The switch is on the right of the machine on the side panel.
