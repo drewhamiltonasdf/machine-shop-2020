@@ -23,5 +23,5 @@
 
 ### Manual
 
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/_manuals-info-etc/2013-EF1459 Manual.pdf?raw=true)  
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/_manuals-info-etc/2013-EF1459-Manual.pdf?raw=true)  
 &nbsp;
