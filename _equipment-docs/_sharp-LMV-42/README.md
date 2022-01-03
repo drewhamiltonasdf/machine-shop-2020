@@ -54,25 +54,25 @@ For more, check out the following YouTubers to go a little deeper:
   - Mills are significantly safer than drill presses because the work is held rigidly in a vise. That said, cutting tools are sharp and should be handled with care, and the chips
     produced by them can be very sharp as well, and often quite hot. 
     
-        - <b>ALWAYS WEAR EYE PROTECTION!</b> This is 100% non-optional when using machine tools, and not 
+        - ALWAYS WEAR EYE PROTECTION!This is 100% non-optional when using machine tools, and not 
           just something that you say in a readme, you really need to do this, or you will end up
           with corneal abrasions and visits to the ER.
           
-        - <b>ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN!</b> There are countless gory videos on the 
+        - ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN! There are countless gory videos on the 
           internet of people using lathes and mills with long hair. This is very serious. The 
           powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
           hair and loose clothing.
           
-        - <b>BE AWARE:</b> There are lots of moving parts on a mill. Be aware please.
+        - BE AWARE: There are lots of moving parts on a mill. Be aware please.
 
-        - <b>DON'T BE RUSHED:</b> Take your time or regret it later in the quality of your parts.
+        - DON'T BE RUSHED: Take your time or regret it later in the quality of your parts.
 
-        - <b>WEAR GLOVES</b> if possible when handling cutting tools, but <b>DO NOT WEAR GLOVES</b> when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
+        - WEAR GLOVES if possible when handling cutting tools, but <b>DO NOT WEAR GLOVES</b> when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
           shirt cuffs etc are held far away from rotating tools.
           
-        - <b>DEBURR</b> your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
+        - DEBURR your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
 
-        - <b>AVOID CLIMB MILLING</b> for everything but finishing passes. Conventional milling is preferred (feeding WITH the direction of the spindle). More on this later.
+        - AVOID CLIMB MILLING for everything but finishing passes. Conventional milling is preferred (feeding WITH the direction of the spindle). More on this later.
 &nbsp;
 &nbsp;
 
