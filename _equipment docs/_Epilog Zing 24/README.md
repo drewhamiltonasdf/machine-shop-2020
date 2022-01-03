@@ -14,6 +14,7 @@
 Lasers cut in one of two ways: Raster / Vector
 When rastering, the laser will etc out a region line by line like an old dot matrix printer. This is used to engrave images or solid hatched regions in a cut file:
 
+![image](https://user-images.githubusercontent.com/25337759/147968492-71bf1cbc-a925-4247-9207-c2605acd6181.png)
 
 
 Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. 
