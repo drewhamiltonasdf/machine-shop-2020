@@ -9,7 +9,7 @@
 
 Major Equipment:
 
-#![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/images/equipment-images/LMV-Series.jpg?raw=true) 
+#![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/LMV-Series.jpg?raw=true) 
 
 * Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system. Accessories include:
        * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
