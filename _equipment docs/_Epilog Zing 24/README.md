@@ -9,6 +9,29 @@
 &nbsp;
 &nbsp;
 
+### Specs:
+
+  - Laser Type: 60 Watt, CO2 laser
+  - Cuttable Area: 12" x 24" (Excluding some margin around edges)
+  - Max Z-height: 4.5"  (not equivalent to max cuttable thickness)
+  
+### The Basics: Acceptable Materials & Safety
+
+  - Please do not cut vinyl ever. Get a vinyl cutter or outsource. Cutting vinyl will turn the 13th floor into a defacto gas chamber, and it will damage the machine as it releases corrosive gases.
+  
+  - If you are cutting something exotic, please research cuttability with C02 lasers, and also look up the MSDS information to see what happens when it vaporizes.
+
+  - Typical Materials include: 
+
+      - Acrylic (up to ~1/4" thickness)
+      - Delrin
+      - Melamine
+      - Paper
+      - Thin Wood
+
+
+  - Lasers cut by vaporizing material, so FIRE IS A DANGER. Please keep an eye on your parts at all times. There is a risk to you, your part, and the machine if you don't.
+
 ### The Basics: Vector Design Files
 
 Example software for 2D vector design:
@@ -17,11 +40,28 @@ Example software for 2D vector design:
   - Illustrator
   - InkScape
 
+You can use virtually any vector design software you like, but the laser is currently set up to plot from InkScape, a freeware vector design software. In the future we can set up to plot directly from any preferred software. 
+  
 Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. If you have a workable file-type, there are several other requirements:
 
     1) All vector files must be "flattened" if they contain 3D geometry. 
+    
     2) All "blocks", "groups" etc must be exploded into simple vector lines (or solid hatch regions for rastering)
-    3)   
+    
+    3) To optimize cut-time and order-of-operations, join closed polygons or "polylines"
+    
+    4) Linewidth must be 0.000" to 0.007" to cut as a vector. (Larger linewidths may be cuttable as a raster)
+    
+    5) Linetype must be "continuous" (no dashed or "unspecified" linetypes etc)
+    
+    5) Arrange groups of lines by color, so you can specify the order in which they cut (i.e. inside vs. outside cut lines)
+    
+    6) Place some geometry denoting the bed-size of the laser for your reference.
+    
+    7) Layout all cuts with AT LEAST 1X material-thickness spacing between cut lines to increase likelihood of success.
+    
+    8) Maximize [cut width : material thickness] ratio to improve likelihood of success. (1:1 or better is typical).
+    
 
 Lasers typically cut in one of two ways: raster and vector.
 
