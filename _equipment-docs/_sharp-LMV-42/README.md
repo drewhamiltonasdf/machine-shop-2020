@@ -107,7 +107,7 @@
  &nbsp;
  Climb milling should only be used for very light finishing passes on a manual machine. On older machines, it may not even be advisable for light cuts. 
  &nbsp;
-  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.jpg?raw=true)
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.JPG?raw=true)
  &nbsp;
  &nbsp;
 
