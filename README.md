@@ -17,6 +17,12 @@
 &nbsp;
 &nbsp;
 
+## README Files for Our Equipment:
+
+This site was built using [Laser Cutter README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment docs/_Epilog Zing 24/README.md).
+&nbsp;
+&nbsp;
+
 ## Major Equipment:
 
 * #### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system.
