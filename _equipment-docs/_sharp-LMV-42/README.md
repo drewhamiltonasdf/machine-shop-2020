@@ -12,6 +12,7 @@
   - 3-axis Digital Read-out (DRO)
   - 3-axis powerfeed
   - Automatic collet-closer
+  - Automatic way-oiler
 
 &nbsp;
 &nbsp;
@@ -31,25 +32,25 @@
   - Mills are significantly safer than drill presses because the work is held rigidly in a vise. That said, cutting tools are sharp and should be handled with care, and the chips
     produced by them can be very sharp as well, and often quite hot. 
     
-        - ALWAYS WEAR EYE PROTECTION! This is 100% non-optional when using machine tools, and not 
+        - <b>ALWAYS WEAR EYE PROTECTION!</b> This is 100% non-optional when using machine tools, and not 
           just something that you say in a readme, you really need to do this, or you will end up
           with corneal abrasions and visits to the ER.
           
-        - ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN! There are countless gory videos on the 
+        - <b>ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN!</b> There are countless gory videos on the 
           internet of people using lathes and mills with long hair. This is very serious. The 
           powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
           hair and loose clothing.
           
-        - BE AWARE: There are lots of moving parts on a mill. Be aware please.
+        - <b>BE AWARE:</b> There are lots of moving parts on a mill. Be aware please.
 
-        - DON'T BE RUSHED: Take your time or regret it later in the quality of your parts.
+        - <b>DON'T BE RUSHED:</b> Take your time or regret it later in the quality of your parts.
 
-        - WEAR GLOVES if possible when handling cutting tools, but DO NOT WEAR GLOVES when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
+        - <b>WEAR GLOVES</b> if possible when handling cutting tools, but <b>DO NOT WEAR GLOVES</b> when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
           shirt cuffs etc are held far away from rotating tools.
           
-        - DEBUR your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
+        - <b>DEBURR</b> your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
 
-        - AVOID CLIMB MILLING for everything but finishing passes. Conventional milling is preferred (feeding WITH the direction of the spindle). More on this later.
+        - <b>AVOID CLIMB MILLING</b> for everything but finishing passes. Conventional milling is preferred (feeding WITH the direction of the spindle). More on this later.
 &nbsp;
 &nbsp;
 
@@ -63,8 +64,8 @@
     than finding the vise or the spindle axi out of square by 3 degrees because Chad was to eager to go home on Friday night.
   - The tools associated with the mill are sacred objects and should be treated with religious reverence. They should be clean, rust free and stored with care.
   - The tools associated with measuring / set-up are precise beyond your ability to utilize and they need to stay that way.
-  - Know to distinguish CLIMB vs. CONVENTIONAL milling.
-  - Spindle Oil should be administered every single time you use the milling machine. Way oil is automated, by not the spindle.
+  - Know to distinguish <b>CLIMB vs. CONVENTIONAL milling</b>.
+  - <b>Spindle Oil</b> should be administered every single time you use the milling machine. Way oil is automated, by not the spindle.
   
 &nbsp;
 &nbsp;
@@ -118,7 +119,7 @@
 Here is a handy visual explainer of the difference:
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.JPG?raw=true)
   
- Another way to think of this, which makes planning a cut much easier, is to do you machining in a COUNTER-CLOCKWISE fashion around your part. The following image, hand-crafted by yours truly, shows what I mean:
+ Another way to think of this, which makes planning a cut much easier, is to do you machining in a <b>COUNTER-CLOCKWISE</b> fashion around your part. The following image, hand-crafted by yours truly, shows what I mean:
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-milling.JPG?raw=true) 
 
@@ -136,7 +137,7 @@ The direction of the spindle will always be clockwise looking down onto the work
   - D.O.C. ("Depth of cut") refers to the axial depth of the cutting tool in the material.
   - W.O.C. ("Width of cut") refers to % of the cutter diameter that is engaged with the material.
   - A good rule of thumb for width of cut is 1/3 cutter diameter (and almost always less than 1/2 cutter diameter)
-  - MRR, or material removal rate is WOC x DOC x Feedrate (Example 0.10" x 0.2" x 10 inches per minute = 0.2 cubic inches per minute). When playing with the different variables,
+  - MRR, or </b>material removal rate</b> is WOC x DOC x Feedrate (Example 0.10" x 0.2" x 10 inches per minute = 0.2 cubic inches per minute). When playing with the different variables,
     keep MRR in mind. You'll find reasonable rates of removal for different materials and try stick with a range once you get it right.
 
   - This ![retired machinist](http://tomstechniques.com/) put together an excellent chart for calculating the appropriate spindle speeds for different materials. This is a great starting
