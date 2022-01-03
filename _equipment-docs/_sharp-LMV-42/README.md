@@ -67,8 +67,10 @@ For more, check out the following YouTubers to go a little deeper:
 
         - DON'T BE RUSHED: Take your time or regret it later in the quality of your parts.
 
-        - WEAR GLOVES if possible when handling cutting tools, but <b>DO NOT WEAR GLOVES</b> when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
-          shirt cuffs etc are held far away from rotating tools.
+        - WEAR GLOVES if possible when handling cutting tools, but...
+        
+        - DO NOT WEAR GLOVES when near rotating tools. They can catch and get wrapped in the tool. 
+          Similarly, ensure that shirt cuffs etc are held far away from rotating tools.
           
         - DEBURR your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
 
