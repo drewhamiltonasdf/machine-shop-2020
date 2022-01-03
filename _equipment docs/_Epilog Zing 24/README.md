@@ -9,7 +9,19 @@
 &nbsp;
 &nbsp;
 
+### Vector Design Files
+
+Lasers cut in one of two ways: Raster / Vector
+When rastering, the laser will etc out a region line by line like an old dot matrix printer. This is used to engrave images or solid hatched regions in a cut file:
+
+
+
+Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. 
+
 Currently we only have Inkscape on there which is a freeware vector program.
+
+
+
 
 ##### 1) Ensure USB is plugged into the laser and the computer. Ethernet is not currently workable without a network card.
 ##### 2) Power the laser on. The switch is on the right of the machine on the side panel.
