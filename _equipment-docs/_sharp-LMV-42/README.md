@@ -39,6 +39,17 @@
           internet of people using lathes and mills with long hair. This is very serious. The 
           powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
           hair and loose clothing.
+          
+        - BE AWARE: There are lots of moving parts on a mill. Be aware please.
+
+        - DON'T BE RUSHED: Take your time or regret it later in the quality of your parts.
+
+        - WEAR GLOVES if possible when handling cutting tools, but DO NOT WEAR GLOVES when near rotating tools. They can catch and get wrapped in the tool. Similarly, ensure that
+          shirt cuffs etc are held far away from rotating tools.
+          
+        - DEBUR your parts before handling. Freshly machined metal surfaces leave behind razor-sharp burrs that can and will cut your hands.
+
+        - AVOID CLIMB MILLING for everything but finishing passes. Conventional milling is preferred (feeding WITH the direction of the spindle). More on this later.
 &nbsp;
 &nbsp;
 
@@ -52,6 +63,8 @@
     than finding the vise or the spindle axi out of square by 3 degrees because Chad was to eager to go home on Friday night.
   - The tools associated with the mill are sacred objects and should be treated with religious reverence. They should be clean, rust free and stored with care.
   - The tools associated with measuring / set-up are precise beyond your ability to utilize and they need to stay that way.
+  - Know to distinguish CLIMB vs. CONVENTIONAL milling.
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -60,6 +73,27 @@
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine-body.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
+&nbsp;
+
+##### The Work Table: Positioning
+  The table of the machine moves left and right in the X-axis and front to back in the Y-axis. Both of these axes have linear encoders on them which can show you the relative position of your work to an obscene degree of precision. The Z-axis is always the axis of the spindle with machine tools. This also has an encoder, but it is only attached the "quill", meaning that it will not track adjustments to the "knee" of the machine (though these two adjustments both change the relative z-axis position between your workpiece and your cutting tool).
+  All three axes are equipped with hand-feed crank handles as well as motorized "powerfeeds". The X-axis powerfeed is the one most typically used, as it spans a larger distance, but both the Y and Z axis powerfeeds are very useful for moving around in relation to your part without tiring yourself out. Please be aware of possible collisions anytime you use the powerfeeds.
+
+##### The Work Table: Locks
+ All three axes of motion with respect to the table occur on dovetailed cast iron slides. Each axis has between 1 and 2 locks. There is a "saddle lock" to lock the Y-axis travel. There is a "work table lock" to lock the X-axis travel. And there is a "Knee Lock Lever" to lock the Z-axis. Please ensure that the locks are in the off-position before engaging
+ the powerfeed to prevent stress to the servo motors. However, it is important to use the locks on the stationary machining axes before the cutting tool engages to minimize play
+ in the other axes. This is good for ensuring the precision of your parts, but it also prevents the machine from "grabbing" and pulling the table in an unconstrained direction.
+ 
+##### The Collet Closer
+ Tools are held in the machine with R8 Collets. This style of collet is what most light-duty manual milling machines in the U.S. used in the past. 
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/R8 collets.jpg?raw=true)
+ A collet clamps the tool so it does not move axially while machining by matching the diameter of the cutting tool very closely and then pulling the tapered portion of the collet up into a matching taper inside the machine. When there is no collet in the spindle, you can reach inside it with your finger and feel a small guide pin. The collet itself has a channel that matches this pin. This prevents the collet from rotating when it is being pulled up into the spindle. Check this if you can't get the collet into the spindle. Once the collet is loosely seated in the spindle, a drawbar will engage the threads at the back of the collet pulling it up tight against the mating taper.
+ With an automatic collet closer, you do not have to manually turn the drawbar, you can simply press the appropriate button on the closer and the rotation will be accomplished with compressed air automatically to the correct torque. This is very convenient and time-saving but also prevents over and under-tightening of the drawbar.
+ When using the collet closer, please observe the procedure written on the closer itself:
+   * The quill must be fully retracted and locked.
+   * The spindle should be in LOW to prevent rotation.
+   * Fingers should be clear of the cutting edges of the tool.
+   
 &nbsp;
 &nbsp;
 
