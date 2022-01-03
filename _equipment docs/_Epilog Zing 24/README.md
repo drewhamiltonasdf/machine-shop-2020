@@ -1,7 +1,15 @@
 # Epilog Zing 24 Notes
 
+$nbsp
+$nbsp
+$nbsp
+
 * ### username:     .\Laser_User
 * ### password:     1qaz2WSX
+
+$nbsp
+$nbsp
+$nbsp
 
 Currently we only have Inkscape on there which is a freeware vector program.
 
