@@ -16,7 +16,7 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/title-cutting-raster-vector1-540x338.jpg?raw=true) 
 
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/images/readme-images/rastervector.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/rastervector.JPG?raw=true) 
 
 Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. 
 
