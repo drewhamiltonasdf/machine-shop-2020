@@ -121,7 +121,8 @@ Here is a handy visual explainer of the difference:
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-milling.JPG?raw=true) 
 
-The direction of the spindle will always be clockwise 
+The direction of the spindle will always be clockwise looking down onto the workpiece unless you are doing something really bonkers with a left-hand tool.
+
  &nbsp;
  &nbsp;
 
