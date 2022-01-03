@@ -1,7 +1,6 @@
 # Roll-in Bandsaw EF1459
 
 &nbsp;
-&nbsp;
 
 ### Manual
 
@@ -37,9 +36,9 @@
 
 ### Troubleshooting
 
-![Roll-in EF1459 Bandsaw Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/images/blade-guide-alignment.JPG?raw=true)  
 ![Roll-in EF1459 Bandsaw Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/images/troubleshooting-01.JPG?raw=true)  
 ![Roll-in EF1459 Bandsaw Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/images/troubleshooting-02.JPG?raw=true)  
+![Roll-in EF1459 Bandsaw Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/images/blade-guide-alignment.JPG?raw=true)  
 
 &nbsp;
 &nbsp;
