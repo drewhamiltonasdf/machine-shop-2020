@@ -5,17 +5,20 @@
 &nbsp;
 &nbsp;
 
-* View Fusion model on Drew.Hamilton@nyulangone.org Fusion360 account. Project: Dima's Shop
-
 ## Major Equipment:
 
-#### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system.
+* #### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system.
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/LMV-Series.jpg?raw=true) 
 
-#### Epilog Zing 24 Laser Cutter
+* #### Epilog Zing 24 Laser Cutter
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/epilog-zing-24-laser.jpg?raw=true) 
 
-#### South Bend Model A 4-1/2" Lathe
+* #### South Bend Model A 4-1/2" Lathe
+
+      * Collet Closer
+      * Variable-frequency Drive
+      * Aloris Style BXA Quick-change toolpost
+      * Carbide insert tooling
 
 ##### Milling Machine Accessories:
 
