@@ -17,10 +17,11 @@
   - Make sure Tension Handle is Tight
   - Select correct speed for material (see chart on machine)
   - Make sure workpiece is securely clamped
-  
-### Troubleshooting
-
-
 
 &nbsp;
+&nbsp;
+
+### Manual
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_roll-in-EF1459/_manuals-info-etc/2013-EF1459 Manual.pdf?raw=true) 
 &nbsp;
