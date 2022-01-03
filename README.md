@@ -7,48 +7,31 @@
 
 * View Fusion model on Drew.Hamilton@nyulangone.org Fusion360 account. Project: Dima's Shop
 
-First "major" purchases (progress)
+Major Equipment:
 
-   * Sharp LVM. Opting for the 49" model which has less stringent power requirements and is built in large quantities at the Sharp factory. Price is around $3000 less for the larger table.
-   * Epliog Mini (no longer in production, requesting quote for comparable machine)
-   * Lista Cabinet: https://www.mscdirect.com/product/details/16374720
-   * Quantum Storage Slider System: http://quantumstorage.thomasnet-navigator.com/item/all-categories/gondola-slider-systems/g-725569-56?plpver=1010&pcat=specialized-storage-systems
-   * Huot Master Tap & Drill Cabinet (#0-80 to 1”-27/64)
-   * Huot Master Tap & Drill Cabinet (M1.6 to M24)
-   * Granite Surface Plate: https://www.mcmaster.com/2245A45/
-   * Surface Plate Stand: https://www.mcmaster.com/2196A83/
-   * Surface Plate Cover: https://www.mcmaster.com/22455A66/
+   * Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system. Accessories include:
+       * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
+       * PHASE II WX-5C 5C Collet, 2-3/4" Center Height, 24 Index Divisions Indexing Collet Fixture (a.k.a. Spindexer)
+       * TTC CB5-SHL 5C Collet Block Chuck Set
+       * ALBRECHT CP130-R8 1/32" to 1/2" Capacity, R8 Shank Integral Shank Keyless Drill Chuck
+       * Right-angle Milling Attachment
+       * Kurt 6" milling vise
+       * Blake Co-axial Indicator
+       * Mitutoyo 12" Digital Height Gage
+       * Mitutoyo 1" Digital Micrometer (0.00005" resolution)
+       * Mitutoyo 8" Digital Calipers
+       * Mitutoyo Test Indicator 0.0005"
+       * Mitutoyo Test Indicator 0.0001"
+       * NOGA Magnetic Indicator Holder
+       * Gage Pin Set (0.011" to 0.500" diameter, class ZZ minus)
+       * Granite Surface Plate, Grade A (12" x 18")
+       
+   * Epliog Zing 24
   
 
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-Plan View:
-<p align="center">
-  <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine Shop Top View.PNG">
-</p>
-
-Looking NE:
-<p align="center">
-  <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine shop Ortho (Looking NE).PNG">
-</p>
-
-Looking SE:
-<p align="center">
-  <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine shop Ortho (Looking SE).PNG">
-</p>
-
-Looking SW:
-<p align="center">
-  <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine shop Ortho (Looking SW).PNG">
-</p>
-
-Looking NW:
-<p align="center">
-  <img src="https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/Machine shop Ortho (Looking NW).PNG">
-</p>
 
 
 # MIT Machine Shop Courses on Youtube:
