@@ -21,7 +21,7 @@
     rigid cast iron construction and 3HP spindle motor. 
   
   - "Speeds & Feeds" are the most important thing to focus on if you are having trouble with difficult materials. Slower speeds and lower feeds are really not
-    necessarily going to help you. The CORRECT speeds and feeds are what are going to help you.
+    necessarily going to help you. The CORRECT speeds and feeds are what are going to help you. 
 
   - 
   
@@ -31,7 +31,7 @@
   point:
   
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/Tom's Techniques- Feeds & Speeds.JPG?raw=true)   
-  
+
 Example software for 2D vector design:
 
   - AutoCAD
