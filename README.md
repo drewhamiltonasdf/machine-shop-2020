@@ -32,6 +32,10 @@
 * #### Epilog Zing 24 Laser Cutter
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/epilog-zing-24-laser.jpg?raw=true) 
 
+* #### Roll-in EF1459 Band Saw
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/Roll-in_Saw.JPG?raw=true) 
+
+
 * #### South Bend Model A 4-1/2" Lathe (no image)
 
       * Collet Closer
