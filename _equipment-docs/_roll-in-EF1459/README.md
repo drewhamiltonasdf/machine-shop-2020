@@ -1,6 +1,6 @@
 # Roll-in Bandsaw EF1459
 
-
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/Roll-in_Saw.JPG?raw=true) 
 
 &nbsp;
 &nbsp;
