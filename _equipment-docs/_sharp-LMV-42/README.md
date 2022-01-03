@@ -28,9 +28,9 @@
 ### The Basics: Speeds & Feeds
 
   - This ![retired machinist](http://tomstechniques.com/) put together an excellent chart for calculating the appropriate spindle speeds for different materials. This is a great starting
-  point. 
+  point:
   
-  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/Tom's Techniques- Feeds & Speeds.JPG?raw=true)   
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/Tom's Techniques- Feeds & Speeds.JPG?raw=true)   
   
 Example software for 2D vector design:
 
