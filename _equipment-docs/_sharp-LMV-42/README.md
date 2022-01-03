@@ -23,73 +23,39 @@
   - "Speeds & Feeds" are the most important thing to focus on if you are having trouble with difficult materials. Slower speeds and lower feeds are really not
     necessarily going to help you. The CORRECT speeds and feeds are what are going to help you. 
 
-  - 
+  - Mills are significantly safer than drill presses because the work is held rigidly in a vise. That said, cutting tools are sharp and should be handled with care, and the chips
+    produced by them can be very sharp as well, and often quite hot. 
+    
+        - ALWAYS WEAR EYE PROTECTION! This is 100% non-optional when using machine tools, and not just something that you say in a readme, you really need to do this, or you will
+          end up with corneal abrasions and visits to the ER.
+          
+        - ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN! There are countless gory videos on the internet of people using lathes and mills with long hair. This is very serious. The
+          powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch hair and loose clothing.
+
+### The Basics: Parts of the Machine
   
+  ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine body.JPG?raw=true)  
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
+
 ### The Basics: Speeds & Feeds
+
+  - "Speed" refers to the spindle RPM.
+  - "Feed" refers to the rate at which the cutting tool feeds into the workpiece.
+  - Speed is more material-specific, whereas feed has to do mostly with how much force is being put on the work-piece and the machine.
+  - D.O.C. ("Depth of cut") refers to the axial depth of the cutting tool in the material.
+  - W.O.C. ("Width of cut") refers to % of the cutter diameter that is engaged with the material.
+  - A good rule of thumb for width of cut is 1/3 cutter diameter (and almost always less than 1/2 cutter diameter)
+  - MRR, or material removal rate is WOC x DOC x Feedrate (Example 0.10" x 0.2" x 10 inches per minute = 0.2 cubic inches per minute). When playing with the different variables,
+    keep MRR in mind. You'll find reasonable rates of removal for different materials and try stick with a range once you get it right.
 
   - This ![retired machinist](http://tomstechniques.com/) put together an excellent chart for calculating the appropriate spindle speeds for different materials. This is a great starting
   point:
   
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/feeds-and-speeds.JPG?raw=true)   
 
-Example software for 2D vector design:
-
-  - AutoCAD
-  - Illustrator
-  - InkScape
-
-You can use virtually any vector design software you like, but the laser is currently set up to plot from InkScape, a freeware vector design software. In the future we can set up to plot directly from any preferred software. 
-  
-Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. If you have a workable file-type, there are several other requirements:
-
-    1) All vector files must be "flattened" if they contain 3D geometry. 
-    
-    2) All "blocks", "groups" etc must be exploded into simple vector lines (or solid hatch regions for rastering)
-    
-    3) To optimize cut-time and order-of-operations, join closed polygons or "polylines"
-    
-    4) Linewidth must be 0.000" to 0.007" to cut as a vector. (Larger linewidths may be cuttable as a raster)
-    
-    5) Linetype must be "continuous" (no dashed or "unspecified" linetypes etc)
-    
-    5) Arrange groups of lines by color, so you can specify the order in which they cut (i.e. inside vs. outside cut lines)
-    
-    6) Place some geometry denoting the bed-size of the laser for your reference.
-    
-    7) Layout all cuts with AT LEAST 1X material-thickness spacing between cut lines to increase likelihood of success.
-    
-    8) Maximize [cut width : material thickness] ratio to improve likelihood of success. (1:1 or better is typical).
-    
-    9) Mind your units: INCHES only. You may need to scale if you screwed things up. (25.4 or 1/25.4)
-    
-
-Lasers typically cut in one of two ways: raster and vector.
-
-When rastering, the laser will etch out a region line by line like an old dot matrix printer. It is used mostly for images, but also makes it possible to engrave "3D" features like shallow depressions. It is significantly slower than vector cutting, in which the laser follows the vector lines from beginning to end. It is best practice to explode all "blocks" and "groups" etc, but leave polygons/polylines joined. This takes some experience and is one of the most common sources of issues when first using a laser. When in doubt, refer to the list above for troubleshooting.
-
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/title-cutting-raster-vector1-540x338.jpg?raw=true) 
-
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/rastervector.JPG?raw=true) 
-
-
-### Order of Operations:
-
-    1) Ensure USB is plugged into the laser and the computer. Ethernet is not currently workable without a network card.
-    
-    2) Power the laser on. The switch is on the right of the machine on the side panel.
-    
-    3) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
-
-    3) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (Reminder: make sure the units are inches)
-
-    4) Reminder: Make sure the lineweights are 0.001"
-
-    5) File > Print .....     [ Select Printer "Epilog Engraver" (Not the WinX64 version) ]  ... Click Print
-
-    6) Dashboard will come up. Change Process type to "Vector" and adjust cut settings appropriate for material
-
-    7) Click "Print"
-    
-    8) If you are having issues, please do not reach out unless you have gone through "The Basics: Vector Design Files".
-    Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
-    and I can improve this document to include whatever we're dealing with.
+  The spindle speed is the most important thing to get right, but notice that it is not possible to achieve all of the higher speeds recommended for machining with carbide. In
+  the chart, you can see he recommends multiplying these values by FOUR for carbide. That would, for example, put the speed at 16,000 RPM for machining aluminum with an 1/8" 
+  end mill. In such a case, use the highest speed available without straining the spindle, and keep your feeds moderate. Remember that the higher the spindle speed, the more
+  times your end mill's cutting edges will engage with the part as you are feeding through it.
