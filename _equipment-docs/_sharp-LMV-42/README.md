@@ -36,6 +36,18 @@
           powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
           hair and loose clothing.
 
+
+### The Basics: Machine Shop Courtesy
+
+  - Assume every doohickey and whatsit is a very important ultra-precision, expensive, instrument.
+  - Familiarize yourself with the doohickeys.
+  - Machining can be a very messy, dirty business
+  - It is a point of pride for machinists to mantain a clean shop in spite of the above fact
+  - Always make sure anything that is supposed to be precisely aligned is left either clearly labelled or precisely aligned. Nothing will drive you more insane
+    than finding the vise or the spindle axi out of square by 3 degrees because Chad was to eager to go home on Friday night.
+  - The tools associated with the mill are sacred objects and should be treated with religious reverence. They should be clean, rust free and stored with care.
+  - The tools associated with measuring / set-up are precise beyond your ability to utilize and they need to stay that way.
+  
 ### The Basics: Parts of the Machine
   
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
