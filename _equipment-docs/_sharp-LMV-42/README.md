@@ -86,7 +86,7 @@
  
 ##### The Collet Closer
  Tools are held in the machine with R8 Collets. This style of collet is what most light-duty manual milling machines in the U.S. used in the past. 
-  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/R8 collets.jpg?raw=true)
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/R8-collets.jpg?raw=true)
  A collet clamps the tool so it does not move axially while machining by matching the diameter of the cutting tool very closely and then pulling the tapered portion of the collet up into a matching taper inside the machine. When there is no collet in the spindle, you can reach inside it with your finger and feel a small guide pin. The collet itself has a channel that matches this pin. This prevents the collet from rotating when it is being pulled up into the spindle. Check this if you can't get the collet into the spindle. Once the collet is loosely seated in the spindle, a drawbar will engage the threads at the back of the collet pulling it up tight against the mating taper.
  With an automatic collet closer, you do not have to manually turn the drawbar, you can simply press the appropriate button on the closer and the rotation will be accomplished with compressed air automatically to the correct torque. This is very convenient and time-saving but also prevents over and under-tightening of the drawbar.
  When using the collet closer, please observe the procedure written on the closer itself:
