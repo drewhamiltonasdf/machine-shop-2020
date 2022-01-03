@@ -9,14 +9,17 @@
 
 ## Major Equipment:
 
-#### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system. Accessories include:
+#### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system.
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/LMV-Series.jpg?raw=true) 
 
 #### Epilog Zing 24 Laser Cutter
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/epilog-zing-24-laser.jpg?raw=true) 
 
+#### South Bend Model A 4-1/2" Lathe
 
-       
-####       * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
+##### Milling Machine Accessories:
+
+       * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
        
        * PHASE II WX-5C 5C Collet, 2-3/4" Center Height, 24 Index Divisions Indexing Collet Fixture (a.k.a. Spindexer)
        
@@ -45,9 +48,7 @@
        * Gage Pin Set (0.011" to 0.500" diameter, class ZZ minus)
        
        * Granite Surface Plate, Grade A (12" x 18")
-       
-   * Epliog Zing 24
-  
+
 
 &nbsp;
 &nbsp;
