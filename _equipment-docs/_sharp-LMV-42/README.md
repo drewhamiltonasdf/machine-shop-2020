@@ -1,6 +1,7 @@
 # Sharp LMV-42 Milling Machine
 
 &nbsp;
+  * ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
 &nbsp;
 
 ### Specs:
@@ -37,7 +38,6 @@
 
 ### The Basics: Parts of the Machine
   
-  ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine-body.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
