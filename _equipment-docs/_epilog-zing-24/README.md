@@ -91,4 +91,6 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 
     7) Click "Print"
     
-    8) If you are having issues, please do not reach out unless you have gone through "The Basics: Vector Design Files" and read through this list in order. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org
+    8) If you are having issues, please do not reach out unless you have gone through "The Basics: Vector Design Files".
+    Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
+    and I can improve this document to include whatever we're dealing with.
