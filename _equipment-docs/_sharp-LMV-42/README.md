@@ -3,6 +3,7 @@
 &nbsp;
   * ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
 &nbsp;
+&nbsp;
 
 ### Specs:
 
@@ -11,7 +12,10 @@
   - 3-axis Digital Read-out (DRO)
   - 3-axis powerfeed
   - Automatic collet-closer
-  
+
+&nbsp;
+&nbsp;
+
 ### The Basics: Acceptable Materials & Safety
 
   - This is the nicest milling machine you will likely ever encounter. Please treat it with reverence.
@@ -35,7 +39,8 @@
           internet of people using lathes and mills with long hair. This is very serious. The 
           powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
           hair and loose clothing.
-
+&nbsp;
+&nbsp;
 
 ### The Basics: Machine Shop Courtesy
 
@@ -47,12 +52,16 @@
     than finding the vise or the spindle axi out of square by 3 degrees because Chad was to eager to go home on Friday night.
   - The tools associated with the mill are sacred objects and should be treated with religious reverence. They should be clean, rust free and stored with care.
   - The tools associated with measuring / set-up are precise beyond your ability to utilize and they need to stay that way.
-  
+&nbsp;
+&nbsp;
+
 ### The Basics: Parts of the Machine
-  
+&nbsp;  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine-body.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
+&nbsp;
+&nbsp;
 
 ### The Basics: Speeds & Feeds
 
@@ -74,3 +83,7 @@
   the chart, you can see he recommends multiplying these values by FOUR for carbide. That would, for example, put the speed at 16,000 RPM for machining aluminum with an 1/8" 
   end mill. In such a case, use the highest speed available without straining the spindle, and keep your feeds moderate. Remember that the higher the spindle speed, the more
   times your end mill's cutting edges will engage with the part as you are feeding through it.
+  
+  &nbsp;
+  &nbsp;
+  
