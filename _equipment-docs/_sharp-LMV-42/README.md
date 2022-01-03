@@ -22,8 +22,8 @@ For more, check out the following YouTubers to go a little deeper:
 &nbsp;
 &nbsp;
 
-### User Manula:
-* ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
+### User Manual:
+* ![Link to Sharp User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
 &nbsp;
 &nbsp;
 
