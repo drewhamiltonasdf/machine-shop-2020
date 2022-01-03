@@ -61,6 +61,8 @@ Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc.
     
     8) Maximize [cut width : material thickness] ratio to improve likelihood of success. (1:1 or better is typical).
     
+    9) Mind your units: INCHES only. You may need to scale if you screwed things up. (25.4 or 1/25.4)
+    
 
 Lasers typically cut in one of two ways: raster and vector.
 
@@ -76,13 +78,17 @@ When rastering, the laser will etch out a region line by line like an old dot ma
     1) Ensure USB is plugged into the laser and the computer. Ethernet is not currently workable without a network card.
     
     2) Power the laser on. The switch is on the right of the machine on the side panel.
+    
+    3) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
 
-    3) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (make sure the units are inches)
+    3) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (Reminder: make sure the units are inches)
 
-    4) Make sure the lineweights are 0.001"
+    4) Reminder: Make sure the lineweights are 0.001"
 
     5) File > Print .....     [ Select Printer "Epilog Engraver" (Not the WinX64 version) ]  ... Click Print
 
-    6) Dashboard will come up. Change Process type to "Vector" and adjust cut settings
+    6) Dashboard will come up. Change Process type to "Vector" and adjust cut settings appropriate for material
 
     7) Click "Print"
+    
+    8) If you are having issues, please do not reach out unless you have gone through "The Basics: Vector Design Files" and read through this list in order. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org
