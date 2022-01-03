@@ -7,13 +7,13 @@
 
 * View Fusion model on Drew.Hamilton@nyulangone.org Fusion360 account. Project: Dima's Shop
 
-Major Equipment:
+## Major Equipment:
 
 #![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/LMV-Series.jpg?raw=true) 
 
-* Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system. Accessories include:
+### * Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system. Accessories include:
        
-       * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
+####       * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
        
        * PHASE II WX-5C 5C Collet, 2-3/4" Center Height, 24 Index Divisions Indexing Collet Fixture (a.k.a. Spindexer)
        
