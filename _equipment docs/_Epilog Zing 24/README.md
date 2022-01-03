@@ -14,8 +14,11 @@
 Lasers cut in one of two ways: Raster / Vector
 When rastering, the laser will etch out a region line by line like an old dot matrix printer. It is used mostly for images, but also makes it possible to engrave "3D" features like shallow depressions. It is significantly slower than vector cutting, in which the laser follows the vector lines from beginning to end. It is best practice to explode all "blocks" and "groups" etc, but leave polygons/polylines joined. This takes some experience and is one of the most common sources of issues when first using a laser.
 
-![image](images/readme images/title-cutting-raster-vector1-540x338.jpg)
-![image](images/readme images/rastervector.JPG)
+* #### Sharp LMV, 49" table, collet closer, 3-axis DRO, 3-axis powerfeed, and coolant-system.
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/images/readme images/title-cutting-raster-vector1-540x338.jpg?raw=true) 
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/equipment-images/images/readme images/rastervector.JPG?raw=true) 
 
 Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. 
 
