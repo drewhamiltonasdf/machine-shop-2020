@@ -3,11 +3,11 @@
 &nbsp;
 ### Instructional Videos:
 
-[![  -Climb Milling vs. Conventional Milling](https://www.youtube.com/watch?v=galm5_6SUcM "Everything Is AWESOME")
-[![  -Cutting Speed and RPM on the Lathe and Mill](https://www.youtube.com/watch?v=gIUS_0xfeGg "Everything Is AWESOME")
-[![  -Indicating in a milling vise](https://www.youtube.com/watch?v=DdgSxoTmtx0 "Everything Is AWESOME")
-[![  -How to Power Tap](https://www.youtube.com/watch?v=I95YrmVUL18 "Everything Is AWESOME")
-[![  -Indicating the center of a hole with a co-axial indicator](https://www.youtube.com/watch?v=uNcqw6e8mCw "Everything Is AWESOME")
+  * [![  -Climb Milling vs. Conventional Milling](https://www.youtube.com/watch?v=galm5_6SUcM "Everything Is AWESOME")
+  * [![  -Cutting Speed and RPM on the Lathe and Mill](https://www.youtube.com/watch?v=gIUS_0xfeGg "Everything Is AWESOME")
+  * [![  -Indicating in a milling vise](https://www.youtube.com/watch?v=DdgSxoTmtx0 "Everything Is AWESOME")
+  * [![  -How to Power Tap](https://www.youtube.com/watch?v=I95YrmVUL18 "Everything Is AWESOME")
+  * [![  -Indicating the center of a hole with a co-axial indicator](https://www.youtube.com/watch?v=uNcqw6e8mCw "Everything Is AWESOME")
 
 &nbsp;
 &nbsp;
