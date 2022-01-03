@@ -64,6 +64,7 @@
   - The tools associated with the mill are sacred objects and should be treated with religious reverence. They should be clean, rust free and stored with care.
   - The tools associated with measuring / set-up are precise beyond your ability to utilize and they need to stay that way.
   - Know to distinguish CLIMB vs. CONVENTIONAL milling.
+  - Spindle Oil should be administered every single time you use the milling machine. Way oil is automated, by not the spindle.
   
 &nbsp;
 &nbsp;
