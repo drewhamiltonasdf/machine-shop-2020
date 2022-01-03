@@ -105,8 +105,16 @@
  &nbsp;
  #### Please pay attention to this section. Climb milling when you don't know what you are doing can cause serious bodily harm and damage to the machine and workpiece.
  &nbsp;
- Climb milling should only be used for very light finishing passes on a manual machine. On older machines, it may not even be advisable for light cuts. 
- &nbsp;
+ Climb milling should only be used for very light finishing passes on a manual machine. On older machines, it may not even be advisable for light cuts. If you do use climb milling please be aware and start with very light cuts on the order of 0.002" to 0.005". At a minimum please get familiar with the difference between the two types of cutting so you can quickly identify whether you are in a position for conventional or climb milling. If you aren't used to identifying these two types of cuts, the difference can seem subtle, but the results can be dramatic.
+ The important concept is this:
+  * When climb-milling, the cutter wants to pull the work further into the cutter.
+  * If the work is pulled into the cutter the table, in turn, will be pulled toward the cutter. If the table is pulled 
+    in this direction, it takes up the slack or backlash of the table and can JUMP forward causing any of the following:
+      * Projectile workpiece
+      * Breakage/damage of the tool
+      * Damage to the table/leadscrew
+    
+    &nbsp;
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.JPG?raw=true)
  &nbsp;
  &nbsp;
