@@ -20,6 +20,7 @@
 ## README Files for Our Equipment:
 
 * #### Zing 24: [Laser Cutter README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_epilog-zing-24/README.md).
+* #### Sharp LMV-42: [Milling Machine README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/README.md).
 &nbsp;
 &nbsp;
 
