@@ -20,14 +20,14 @@
       * Aloris Style BXA Quick-change toolpost
       * Carbide insert tooling
 
-##### Milling Machine Accessories:
+* ##### Milling Machine Accessories:
 
-      * PHASE II HV221-310 10" Horizontal & Vertical Rotary Table
-      * PHASE II WX-5C 5C Collet, 2-3/4" Center Height, 24 Index Divisions Indexing Collet Fixture (a.k.a. Spindexer)
-      * TTC CB5-SHL 5C Collet Block Chuck Set
-      * ALBRECHT CP130-R8 1/32" to 1/2" Capacity, R8 Shank Integral Shank Keyless Drill Chuck
+      * PHASE II 10" Horizontal & Vertical Rotary Table (HV221-310)
+      * PHASE II Indexing 5C Collet Fixture, 2-3/4" Center Height, 24 Index Divisions (a.k.a. Spindexer) WX-5C
+      * 5C Collet Block Chuck Set (TTC CB5-SHL)
+      * ALBRECHT Keyless Drill Chuck 1/32" to 1/2" Capacity, R8 Shank Integral (CP130-R8)
       * Right-angle Milling Attachment
-      * Kurt 6" milling vise
+      * Kurt 6" milling vise (DX6 Cross-over)
       * Blake Co-axial Indicator
       * Mitutoyo 12" Digital Height Gage
       * Mitutoyo 1" Digital Micrometer (0.00005" resolution)
@@ -36,8 +36,17 @@
       * Mitutoyo Test Indicator 0.0001"
       * NOGA Magnetic Indicator Holder
       * Gage Pin Set (0.011" to 0.500" diameter, class ZZ minus)
+      * Rectangular Gage Block Set B (AS-2) Grade, .05" thru 4" Size, 81 Piece (ASIMETO 650-01-2)
       * Granite Surface Plate, Grade A (12" x 18")
-
+      * 45X Centering Microscope (MSC Part #: 06539332)
+      * 6" 3 Jaw Chuck Milling Table Fixture (Brand: ATLAS, Model #: NBK6)
+      * Sine Bar, 5" between rolls, 15/16" Width (Travers Model #: FSB-5)
+      * Set-up blocks (1-2-3 blocks, 2-4-6 blocks)
+      * Machinist Squares
+      * Parallels (Thin 1/32" and regular 1/8")
+      * Drill Set (Cobalt), Complete Letter, Wire, Fractional set
+      * Reamer Set (Metric / Imperial)
+      * End mills, carbide, HSS, center-drills tap wrenches, layout fluid, scribes etc.
 
 &nbsp;
 &nbsp;
