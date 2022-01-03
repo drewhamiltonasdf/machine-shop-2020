@@ -19,7 +19,7 @@
 
 ## README Files for Our Equipment:
 
-* Please read the README, RTFM: [Laser Cutter README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_epilog-zing-24/README.md).
+* Please read the README, please RTFM please: [Laser Cutter README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_epilog-zing-24/README.md).
 &nbsp;
 &nbsp;
 
