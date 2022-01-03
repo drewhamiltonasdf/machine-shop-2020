@@ -26,17 +26,20 @@
   - Mills are significantly safer than drill presses because the work is held rigidly in a vise. That said, cutting tools are sharp and should be handled with care, and the chips
     produced by them can be very sharp as well, and often quite hot. 
     
-        - ALWAYS WEAR EYE PROTECTION! This is 100% non-optional when using machine tools, and not just something that you say in a readme, you really 
-          need to do this, or you will end up with corneal abrasions and visits to the ER.
+        - ALWAYS WEAR EYE PROTECTION! This is 100% non-optional when using machine tools, and not 
+          just something that you say in a readme, you really need to do this, or you will end up
+          with corneal abrasions and visits to the ER.
           
-        - ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN! There are countless gory videos on the internet of people using lathes and mills with long hair.
-          This is very serious. The powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch hair and loose clothing.
+        - ALWAYS KEEP LONG HAIR CONTAINED OR IN A BUN! There are countless gory videos on the 
+          internet of people using lathes and mills with long hair. This is very serious. The 
+          powerfeeds, the spindle, anything that moves automatically on lathes and mills can catch 
+          hair and loose clothing.
 
 ### The Basics: Parts of the Machine
   
   ![Link to User Manual](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/LMV-operation-parts-manual.pdf)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
-  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine body.JPG?raw=true)  
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine-body.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
 
 ### The Basics: Speeds & Feeds
