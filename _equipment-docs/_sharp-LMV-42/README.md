@@ -100,6 +100,18 @@
 &nbsp;
 &nbsp;
 
+### The Basics: CLIMB MILLING vs CONVENTIONAL MILLING
+ 
+ &nbsp;
+ #### Please pay attention to this section. Climb milling when you don't know what you are doing can cause serious bodily harm and damage to the machine and workpiece.
+ &nbsp;
+ Climb milling should only be used for very light finishing passes on a manual machine. On older machines, it may not even be advisable for light cuts. 
+ &nbsp;
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.jpg?raw=true)
+ &nbsp;
+ &nbsp;
+
+
 ### The Basics: Speeds & Feeds
 
   - "Speed" refers to the spindle RPM.
