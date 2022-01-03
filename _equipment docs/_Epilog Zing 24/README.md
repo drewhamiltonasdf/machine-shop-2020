@@ -11,14 +11,27 @@
 
 ### The Basics: Vector Design Files
 
-Lasers cut in one of two ways: Raster / Vector
+Example software for 2D vector design:
+
+  - AutoCAD
+  - Illustrator
+  - InkScape
+
+Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. If you have a workable file-type, there are several other requirements:
+
+    1) All vector files must be "flattened" if they contain 3D geometry. 
+    2) All "blocks", "groups" etc must be exploded into simple vector lines (or solid hatch regions for rastering)
+    3)   
+
+Lasers typically cut in one of two ways: raster and vector.
+
 When rastering, the laser will etch out a region line by line like an old dot matrix printer. It is used mostly for images, but also makes it possible to engrave "3D" features like shallow depressions. It is significantly slower than vector cutting, in which the laser follows the vector lines from beginning to end. It is best practice to explode all "blocks" and "groups" etc, but leave polygons/polylines joined. This takes some experience and is one of the most common sources of issues when first using a laser.
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/title-cutting-raster-vector1-540x338.jpg?raw=true) 
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/rastervector.JPG?raw=true) 
 
-Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc. 
+
 
 Currently we only have Inkscape on there which is a freeware vector program.
 
