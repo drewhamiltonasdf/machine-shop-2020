@@ -113,9 +113,15 @@
       * Projectile workpiece
       * Breakage/damage of the tool
       * Damage to the table/leadscrew
-    
-    &nbsp;
+
+Here is a handy visual explainer of the difference:
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-conventional.JPG?raw=true)
+  
+ Another way to think of this, which makes planning a cut much easier, is to do you machining in a COUNTER-CLOCKWISE fashion around your part. The following image, hand-crafted by yours truly, shows what I mean:
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/climb-milling.JPG?raw=true) 
+
+The direction of the spindle will always be clockwise 
  &nbsp;
  &nbsp;
 
