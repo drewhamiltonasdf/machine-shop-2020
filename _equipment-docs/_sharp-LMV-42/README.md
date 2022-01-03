@@ -152,3 +152,13 @@ The direction of the spindle will always be clockwise looking down onto the work
   &nbsp;
   &nbsp;
   
+### Lubrication
+
+ - The Spindle should be oiled with every use of the machine to keep it in the immaculate condition that it is currently in. Use Mobil Velocite No. 10, the recommended light duty 
+   spindle oil for milling machines, and nothing else! When it comes to Spindle Oil, oils are NOT interchangeable.
+ 
+ - Way oil (Vactra No. 2) is for the ways only. This can be added to the automatic way oiler when running low.
+ 
+ - Cutting oil. When cutting aluminum and other metals some cutting oil can be used to keep things cool and lubricious. I use "Tap-Magic Aluminum" cutting fluid or "A9" cutting fluid 
+   for aluminum, and some mixture of this with heavy cutting oil or tapping fluid for steels (and for tapping, of course).
+
