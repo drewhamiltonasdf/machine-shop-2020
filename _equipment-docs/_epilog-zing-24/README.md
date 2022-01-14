@@ -82,6 +82,8 @@ When rastering, the laser will etch out a region line by line like an old dot ma
         -Press the Focus button. The gantry will move in so that the focusing gizmo can be lowered to measure the distance from the workpiece. Adjust the Z-axis until 
          the arm just barely stops swinging. Press the return to main button to return the gantry to the home position. 
 
+        -![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
+
     2) Power the laser on. The switch is on the right of the machine on the side panel.
     
     3) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
