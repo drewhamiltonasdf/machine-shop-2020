@@ -112,3 +112,6 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons03.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons04.JPG?raw=true) 
 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings01.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings02.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings03.JPG?raw=true) 
