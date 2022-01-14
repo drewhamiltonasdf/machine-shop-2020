@@ -99,3 +99,7 @@ When rastering, the laser will etch out a region line by line like an old dot ma
     8) If you are having issues, please go through "The Basics: Vector Design Files" first.
     Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
     and I can improve this document to include whatever we're dealing with.
+    
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/laser-buttons.JPG?raw=true)  
+
