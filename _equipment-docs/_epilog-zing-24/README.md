@@ -76,7 +76,12 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 ### Order of Operations:
 
     1) Ensure USB is plugged into the laser and the computer. Ethernet is not currently workable without a network card.
+
+    2) FOCUSING THE LASER: The Z-axis needs to be set in relation to the top of the workpiece so that the laser is in focus. 
     
+        -Press the Focus button. The gantry will move in so that the focusing gizmo can be lowered to measure the distance from the workpiece. Adjust the Z-axis until 
+         the arm just barely stops swinging. Press the return to main button to return the gantry to the home position. 
+
     2) Power the laser on. The switch is on the right of the machine on the side panel.
     
     3) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
@@ -91,6 +96,6 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 
     7) Click "Print"
     
-    8) If you are having issues, please do not reach out unless you have gone through "The Basics: Vector Design Files".
+    8) If you are having issues, please go through "The Basics: Vector Design Files" first.
     Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
     and I can improve this document to include whatever we're dealing with.
