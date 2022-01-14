@@ -100,9 +100,13 @@ When rastering, the laser will etch out a region line by line like an old dot ma
     Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
     and I can improve this document to include whatever we're dealing with.
     
-
+## Buttons:
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/laser-buttons.JPG?raw=true)  
+
+## Focusing:
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/manual-focus.JPG?raw=true)  
+
+## Detailed description of button functionality:
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons01.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons02.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons03.JPG?raw=true) 
