@@ -72,6 +72,14 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/rastervector.JPG?raw=true) 
 
+### Material Settings:
+
+Please refer to this list as you get started, but keep in mind that you will never find a setting that works every time. You have to pay attention, and you have to keep a log of what works. As the laser-tube ages, it's power output will decrease. Use the below charts as a starting point...
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings01.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings02.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings03.JPG?raw=true)
+
 
 ### Order of Operations:
 
@@ -110,8 +118,4 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons01.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons02.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons03.JPG?raw=true) 
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons04.JPG?raw=true) 
-
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings01.JPG?raw=true) 
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings02.JPG?raw=true) 
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings03.JPG?raw=true) 
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/buttons04.JPG?raw=true)  
