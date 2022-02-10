@@ -5,7 +5,7 @@
 &nbsp;
 
 ## Do this first:
-<a href="https://docs.google.com/forms/d/1grRKHktAiudXfWMcUNbj-wZhNqEuzKGUPCXHxeIf0uw/prefill" target="_blank">Gain Card Access to Machine Shop [Google Form]</a>
+Email me at Drew.Hamilton@nyulangone.org to schedule a quick 15 minute shop overview to gain basic card access to the shop. If you would like to schedule training for the laser or the mill, we'll need to carve out a bit more time.
 
 &nbsp;
 &nbsp;
