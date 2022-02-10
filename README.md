@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-![alt text](https://docs.google.com/forms/d/1grRKHktAiudXfWMcUNbj-wZhNqEuzKGUPCXHxeIf0uw/prefill)
+<a href="https://docs.google.com/forms/d/1grRKHktAiudXfWMcUNbj-wZhNqEuzKGUPCXHxeIf0uw/prefill" target="_blank">Google</a>
 
 &nbsp;
 &nbsp;
