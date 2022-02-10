@@ -4,6 +4,11 @@
 &nbsp;
 &nbsp;
 
+![alt text](https://docs.google.com/forms/d/1grRKHktAiudXfWMcUNbj-wZhNqEuzKGUPCXHxeIf0uw/prefill)
+
+&nbsp;
+&nbsp;
+
 ## General Shop Rules:
 
 * #### Safety: You are required to wear safety googles any time chips are being created (Dremel, mill, bandsaw, etc). There are specifics for every piece of large equipment. Do NOT use any equipment you have not been trained on and ask before you try to do anything you don't know how to do. 
