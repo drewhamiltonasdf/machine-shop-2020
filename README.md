@@ -4,6 +4,7 @@
 &nbsp;
 &nbsp;
 
+## Do this first:
 <a href="https://docs.google.com/forms/d/1grRKHktAiudXfWMcUNbj-wZhNqEuzKGUPCXHxeIf0uw/prefill" target="_blank">Gain Card Access to Machine Shop [Google Form]</a>
 
 &nbsp;
