@@ -4,6 +4,17 @@
 &nbsp;
 &nbsp;
 
+## General Shop Rules:
+
+* #### Safety: You are required to wear safety googles any time chips are being created (Dremel, mill, bandsaw, etc). There are specifics for every piece of large equipment. Do NOT use any equipment you have not been trained on and ask before you try to do anything you don't know how to do. 
+
+* #### If you break a tool during normal use, don't sweat it. Please just let me know so I can order another. It makes life so much nicer to have complete sets of everything: allen keys, drills, taps, end mills, reamers etc. I'll do my part to make sure we're not missing tools if you do your part to report missing items.
+
+* #### While working, you only need to be tidy enough to not be disrespectful of others in the space. AFTER working, please leave the space looking like a clean room. That means sweeping UNDER and BEHIND the machines. Vacuuming chips out of crevices. Wiping down dusty surfaces. It should be a point of pride to leave the space looking immaculate.
+
+&nbsp;
+&nbsp;
+
 ## README Files for Our Equipment:
 
 * #### Zing 24: [Laser Cutter README](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_epilog-zing-24/README.md).
