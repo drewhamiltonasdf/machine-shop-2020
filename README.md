@@ -12,6 +12,8 @@
 
 * #### While working, you only need to be tidy enough to not be disrespectful of others in the space. AFTER working, please leave the space looking like a clean room. That means sweeping UNDER and BEHIND the machines. Vacuuming chips out of crevices. Wiping down dusty surfaces. It should be a point of pride to leave the space looking immaculate.
 
+* #### Please try to read through the documentation first. If you can't get the laser working and you clearly haven't read through the docs, I'm just going to tell you to read the doc. RTFM.
+
 &nbsp;
 &nbsp;
 
