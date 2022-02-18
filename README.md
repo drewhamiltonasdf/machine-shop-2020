@@ -5,7 +5,7 @@
 &nbsp;
 
 ## Do this first:
-Email me at Drew.Hamilton@nyulangone.org to schedule a quick 15 minute shop overview to gain basic card access to the shop. If you would like to schedule training for the laser or the mill, we'll need to carve out a bit more time.
+Email me at Drew.Hamilton@nyulangone.org to schedule a quick shop overview to gain basic card access to the shop. If you would like to schedule training for the laser or the mill, we'll need to carve out a little bit more time.
 
 [Click here for Training Sign-up Sheet.](https://docs.google.com/spreadsheets/d/14u21g2zx4cGRdOm_TISxXizTiqt9VilMYQBDinkNgko/edit?userstoinvite=drewshbag@gmail.com&actionButton=1#gid=0)
 
