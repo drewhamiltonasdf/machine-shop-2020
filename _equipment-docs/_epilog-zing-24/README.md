@@ -75,8 +75,8 @@ When rastering, the laser will etch out a region line by line like an old dot ma
 ### Material Settings:
 
 Please refer to this list as you get started, but keep in mind that you will never find a setting that works every time. You have to pay attention, and you have to keep a log of what works. As the laser-tube ages, it's power output will decrease. Use the below charts as a starting point. The "s" is speed. The "p" is power. DPI is dots-per-inch and refers to the pulse-frequency of a laser. Most people keep this pretty high (1000), but the ancients claim this puts more heat into the part.
-C:\___GitHub Projects___\machine-shop-2020\_equipment-docs\_epilog-zing-24\_manuals-info-etc
-![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs\_epilog-zing-24\_manuals-info-etc/bad_materials.jpg?raw=true) 
+
+![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_epilog-zing-24/_manuals-info-etc/bad_materials.jpg?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings01.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings02.JPG?raw=true) 
 ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/images/readme-images/epilog-material-settings03.JPG?raw=true)
