@@ -97,6 +97,7 @@ For more, check out the following YouTubers to go a little deeper:
 
 ### The Basics: Parts of the Machine
 &nbsp;  
+  ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/spindle_direction_chart.jpg?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/headstock.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/machine-body.JPG?raw=true)  
   ![alt text](https://github.com/drewhamiltonasdf/machine-shop-2020/blob/main/_equipment-docs/_sharp-LMV-42/_manuals-info-etc/table-saddle-knee.JPG?raw=true)  
