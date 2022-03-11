@@ -49,7 +49,7 @@ Lasers cut 2D vector files. File types include DXF, SVG, Illustrator files, etc.
     
     3) To optimize cut-time and order-of-operations, join closed polygons or "polylines"
     
-    4) Linewidth must be 0.000" to 0.007" to cut as a vector. (Larger linewidths may be cuttable as a raster)
+    4) Linewidth must be 0.002" to 0.007" to cut as a vector. (Larger linewidths may be cuttable as a raster)
     
     5) Linetype must be "continuous" (no dashed or "unspecified" linetypes etc)
     
