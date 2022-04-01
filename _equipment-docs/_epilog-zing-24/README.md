@@ -97,7 +97,7 @@ Please refer to this list as you get started, but keep in mind that you will nev
 
     3) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (Reminder: make sure the units are inches)
 
-    4) Reminder: Make sure the lineweights are 0.001"
+    4) Reminder: Make sure the lineweights are 0.002"
 
     5) File > Print .....     [ Select Printer "Epilog Engraver" (Not the WinX64 version) ]  ... Click Print
 
