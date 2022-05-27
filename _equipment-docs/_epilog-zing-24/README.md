@@ -99,7 +99,7 @@ Please refer to this list as you get started, but keep in mind that you will nev
 
     4) Reminder: Make sure the lineweights are 0.002"
 
-    5) File > Print .....     [ Select Printer "Epilog Engraver" (Not the WinX64 version) ]  ... Click Print
+    5) File > Print .....     [ Select Printer "Epilog Engraver The Real Deal" ]  ... Click Print
 
     6) Dashboard will come up. Change Process type to "Vector" and adjust cut settings appropriate for material
 
