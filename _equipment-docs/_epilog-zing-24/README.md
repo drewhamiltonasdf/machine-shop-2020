@@ -4,7 +4,7 @@
 &nbsp;
 
 * #### username:     .\Laser_User
-* #### password:     1qaz2WSX
+* #### password:     2wsx3EDC
 
 &nbsp;
 &nbsp;
