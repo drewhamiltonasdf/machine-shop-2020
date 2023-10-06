@@ -95,20 +95,26 @@ Please refer to this list as you get started, but keep in mind that you will nev
          the arm just barely stops swinging. Press the return to main button to return the gantry to the home position. 
 
     2) Power the laser on. The switch is on the right of the machine on the side panel.
+
+    3) TURN ON HEPA FILTER FUME EXTRACTOR!
+
+    4) TURN ON AIR ASSIST PUMP!
     
-    3) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
+    5) Open InkScape, load vector file, and follow list above for DO's and DON'Ts pertaining to file-prep.
 
-    3) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (Reminder: make sure the units are inches)
+    6) Document Properties > Custom Size > Width: 24 inches, Height 12 inches    (Reminder: make sure the units are inches)
 
-    4) Reminder: Make sure the lineweights are 0.002"
+    7) Reminder: Make sure the lineweights are 0.002"
 
-    5) File > Print .....     [ Select Printer "Epilog Engraver The Real Deal" ]  ... Click Print
+    8) File > Print .....     [ Select Printer "Epilog Engraver The Real Deal" ]  ... Click Print
 
-    6) Dashboard will come up. Change Process type to "Vector" and adjust cut settings appropriate for material
+    9) Dashboard will come up. Change Process type to "Vector" and adjust cut settings appropriate for material
 
-    7) Click "Print"
+    10) DID YOU FOCUS THE LASER?
     
-    8) If you are having issues, please go through "The Basics: Vector Design Files" first.
+    11) Click "Print"
+    
+    12) If you are having issues, please go through "The Basics: Vector Design Files" first.
     Please also read through this list in order one more time. Otherwise, shoot me an email at Drew.Hamilton@nyulangone.org, 
     and I can improve this document to include whatever we're dealing with.
     
