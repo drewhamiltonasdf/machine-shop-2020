@@ -9,6 +9,9 @@
 &nbsp;
 &nbsp;
 
+## REMEMBER TO USE THE HEPA FUME EXTRACTOR
+## REMEMBER TO PLUG IN THE "AIR ASSIST" PUMP
+
 ### Specs:
 
   - Laser Type: 60 Watt, CO2 laser
