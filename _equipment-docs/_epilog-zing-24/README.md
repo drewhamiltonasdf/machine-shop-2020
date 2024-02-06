@@ -4,7 +4,7 @@
 &nbsp;
 
 * #### username:     .\Laser_User
-* #### password:     2wsx3EDC
+* #### password:     (posted on blue tape on the computer monitor)
 
 &nbsp;
 &nbsp;
